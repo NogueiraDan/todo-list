@@ -32,8 +32,11 @@ const showTask = (text) => {
 };
 
 const underlineText = () => {
-  const checkbox = document.getElementsById("text");
-  if (checkbox.checked) {
+  const checkbox = document.getElementsByName("taskAdded");
+  const term = checkbox.checked;
+  if (term) {
     tasksAdded.setAttribute("style", "text-decoration: line-through");
+  } else {
+    alert("Nao entrou no IF-ELSE");
   }
 };
