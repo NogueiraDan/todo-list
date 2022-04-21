@@ -5,7 +5,6 @@ form.onsubmit = (event) => {
   event.preventDefault();
   const task = document.querySelector("#task-input");
   const text = task.value;
-  //Resetando o formulario
   form.reset();
   showTask(text);
 };
