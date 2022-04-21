@@ -28,7 +28,7 @@ const showTask = (text) => {
   taskContainer.appendChild(taskAdded);
   taskContainer.appendChild(taskLabel);
   tasksAdded.appendChild(taskContainer);
-  //taskAdded.onclick(underlineText());
+  taskAdded.onclick(underlineText());
 };
 
 const underlineText = () => {
