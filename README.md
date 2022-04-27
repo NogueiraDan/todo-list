@@ -1,5 +1,2 @@
 # todo-list
-Created with CodeSandbox
-
-
-## Repositorio para pratica de Lista de tarefas
+Aplicação de lista de tarefas desenvolvida com ReactJs 
