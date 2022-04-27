@@ -1,2 +1,2 @@
 # todo-list
-Aplicação de lista de tarefas desenvolvida com ReactJs 
+Lista de tarefas com JS Puro
