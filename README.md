@@ -1,2 +1,2 @@
 # todo-list
-Lista de tarefas com JS Puro
+Lista de tarefas com JavaScipt Puro
